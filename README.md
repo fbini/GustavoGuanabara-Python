@@ -1,6 +1,6 @@
 # 📘 README — Curso de Python (Mundo 1, Mundo 2 e Mundo 3)
 
-Este repositório é dedicado aos estudos do **Curso de Python** ministrado por **:contentReference[oaicite:0]{index=0}**, disponível gratuitamente na plataforma **:contentReference[oaicite:1]{index=1}**.  
+Este repositório é dedicado aos estudos do **Curso de Python** do Gustavo Guanabara fundador do Curso em Video.
 O curso é dividido em três módulos progressivos: **Mundo 1**, **Mundo 2** e **Mundo 3**, cobrindo desde os fundamentos até conceitos mais avançados da linguagem Python.
 
 ---
